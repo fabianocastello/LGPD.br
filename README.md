@@ -9,6 +9,11 @@ Contato com o desenvolvedor original em fabianocastello.com
 Arquivo QVW e EXE originais registrados no DOI abaixo:
 https://doi.org/10.6084/m9.figshare.9995360
 
+## WHAT´s NEW (março 2020)
+fizemos uma análise do texto para identificação de tags.
+Nesta versão 3 existem 44, que podem ser acessados por um menu a esquerda.
+Selecionando um ou mais tags todas as caixas vão refletir a seleção.
+
 ## INSTALAÇÃO
 não há. basta baixar e executar o arquivo exe.
 para utilizar o arquivo QVW, que pertmite mudanças no layout, é preciso ter instalado o QlikView versão 10 ou superior.
@@ -30,7 +35,8 @@ __ o arquivo EXE está livre de vírus segundo o AVAST.
 
 ## NO FUTURO
 
-__ nada previsto. Envie sugestões.
+__ disponibilizar num ambiente que possa ser acessado por browser.
+__ criar um "word cloud" que reflita os tags mais frequentes e que possa ser usado como filtro.
 
 
 
